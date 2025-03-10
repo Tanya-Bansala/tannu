@@ -1,4 +1,4 @@
 # tannu
 This is my first Git repository.
 <br>
-author: tannu bansala
+author: tannu bansala (gurjar)
